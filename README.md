@@ -1,4 +1,4 @@
 ### sup
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumicy" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cumicy&theme=dark)
